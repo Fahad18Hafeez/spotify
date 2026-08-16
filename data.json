@@ -1,0 +1,108 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Midnight Drive",
+      "artist": "Nova Wave",
+      "album": "Neon Skyline",
+      "cover": "https://picsum.photos/seed/spot1/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Golden Hour",
+      "artist": "Ruby Chase",
+      "album": "Sunlit",
+      "cover": "https://picsum.photos/seed/spot2/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "City Lights",
+      "artist": "Echo Park",
+      "album": "After Hours",
+      "cover": "https://picsum.photos/seed/spot3/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Slow Burn",
+      "artist": "Vintage Moon",
+      "album": "Slow Burn",
+      "cover": "https://picsum.photos/seed/spot4/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Electric Feel",
+      "artist": "Cascade",
+      "album": "Voltage",
+      "cover": "https://picsum.photos/seed/spot5/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Paper Planes",
+      "artist": "Windmill",
+      "album": "Airborne",
+      "cover": "https://picsum.photos/seed/spot6/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Velvet Sky",
+      "artist": "Nova Wave",
+      "album": "Neon Skyline",
+      "cover": "https://picsum.photos/seed/spot7/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Northern Lights",
+      "artist": "Ruby Chase",
+      "album": "Sunlit",
+      "cover": "https://picsum.photos/seed/spot8/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Afterglow",
+      "artist": "Echo Park",
+      "album": "After Hours",
+      "cover": "https://picsum.photos/seed/spot9/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Static & Stars",
+      "artist": "Cascade",
+      "album": "Voltage",
+      "cover": "https://picsum.photos/seed/spot10/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Amber Nights",
+      "artist": "Vintage Moon",
+      "album": "Slow Burn",
+      "cover": "https://picsum.photos/seed/spot11/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Floating Free",
+      "artist": "Solar Drift",
+      "album": "Drifting Hours",
+      "cover": "https://picsum.photos/seed/spot12/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Hazy Mornings",
+      "artist": "Midnight Static",
+      "album": "Static Dreams",
+      "cover": "https://picsum.photos/seed/spot13/300/300",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    }
+  ]
+}
